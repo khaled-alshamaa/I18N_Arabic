@@ -38,3 +38,9 @@ PHP runs more than 75% of all worldwide web sites and has a strong community of 
 The main difference between the GPL and the LGPL is that the latter can be linked to (in the case of a library, 'used by') a non-(L)GPLed program, which may be free software or proprietary software. This non-(L)GPLed program can then be distributed under any chosen terms if it is not a derivative work.
 
 [LGPL](http://www.gnu.org/licenses/lgpl.html), [GNU FAQ](http://www.gnu.org/licenses/gpl-faq.html)
+
+##Useful Links
+* Project website [Ar-PHP.org](http://www.ar-php.org/en_index-php-arabic.html)
+* Arabic, Web, and UTF-8 [F.A.Q.](http://www.ar-php.org/faq-php-arabic.html)
+* [Twitter](http://twitter.com/arphp)
+
