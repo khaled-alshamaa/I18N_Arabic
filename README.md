@@ -13,6 +13,7 @@ Donations allow us to spend more time developing this free open source project i
 We appreciated [your contributions](http://www.ar-php.org/donors.txt) to our project, thank you for your generosity.
 	
 ##Arabic auto summarization
+* [Arabic auto summarization](http://www.ar-php.org/I18N/Arabic/Examples/AutoSummarize.php)
 * [Stem-based searching](http://www.ar-php.org/I18N/Arabic/Examples/Query.php)
 * [Render Arabic text](http://www.ar-php.org/I18N/Arabic/Examples/Glyphs_GD.php)
 * [Present dates in Arabic](http://www.ar-php.org/I18N/Arabic/Examples/Date.php)
