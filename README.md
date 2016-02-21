@@ -44,3 +44,6 @@ The main difference between the GPL and the LGPL is that the latter can be linke
 * Arabic, Web, and UTF-8 [F.A.Q.](http://www.ar-php.org/faq-php-arabic.html)
 * [Twitter](http://twitter.com/arphp)
 
+##Cite as
+Al-Shamaa, Khaled. (2016). PHP and Arabic Language version 4.0. Zenodo. 10.5281/zenodo.46364
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46364.svg)](http://dx.doi.org/10.5281/zenodo.46364)
